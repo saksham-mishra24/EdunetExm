@@ -1,0 +1,121 @@
+Product ID,Product Name,Category,Sub-Category,Units Sold,Revenue,Cost,Net Profit
+ELELAP01,Laptops Model 1,Electronics,Laptops,354,51457.92,40047.32,11410.6
+ELELAP02,Laptops Model 2,Electronics,Laptops,371,125366.74,98214.95,27151.79
+ELELAP03,Laptops Model 3,Electronics,Laptops,160,19564.09,12191.17,7372.92
+ELELAP04,Laptops Model 4,Electronics,Laptops,496,101329.71,69056.97,32272.74
+ELELAP05,Laptops Model 5,Electronics,Laptops,412,35235.61,30922.75,4312.86
+ELELAP06,Laptops Model 6,Electronics,Laptops,426,33430.3,24428.78,9001.52
+ELELAP07,Laptops Model 7,Electronics,Laptops,427,55249.39,42699.65,12549.74
+ELELAP08,Laptops Model 8,Electronics,Laptops,449,202716.03,177415.61,25300.42
+ELELAP09,Laptops Model 9,Electronics,Laptops,468,146042.09,88712.2,57329.89
+ELELAP10,Laptops Model 10,Electronics,Laptops,360,107680.83,75697.19,31983.64
+ELESMA01,Smartphones Model 1,Electronics,Smartphones,239,108467.89,80093.92,28373.97
+ELESMA02,Smartphones Model 2,Electronics,Smartphones,353,65925.21,56184.71,9740.5
+ELESMA03,Smartphones Model 3,Electronics,Smartphones,310,145572.9,95473.0,50099.9
+ELESMA04,Smartphones Model 4,Electronics,Smartphones,93,15531.72,12187.44,3344.28
+ELESMA05,Smartphones Model 5,Electronics,Smartphones,273,83207.01,53102.54,30104.47
+ELESMA06,Smartphones Model 6,Electronics,Smartphones,192,87756.22,74441.96,13314.26
+ELESMA07,Smartphones Model 7,Electronics,Smartphones,255,63938.66,46818.03,17120.63
+ELESMA08,Smartphones Model 8,Electronics,Smartphones,61,13184.64,11725.87,1458.77
+ELESMA09,Smartphones Model 9,Electronics,Smartphones,135,13357.11,8056.27,5300.84
+ELESMA10,Smartphones Model 10,Electronics,Smartphones,440,187553.96,149469.57,38084.39
+ELETAB01,Tablets Model 1,Electronics,Tablets,318,59466.22,51568.02,7898.2
+ELETAB02,Tablets Model 2,Electronics,Tablets,194,11820.01,8741.26,3078.75
+ELETAB03,Tablets Model 3,Electronics,Tablets,378,180365.98,137267.21,43098.77
+ELETAB04,Tablets Model 4,Electronics,Tablets,163,32090.59,27783.57,4307.02
+ELETAB05,Tablets Model 5,Electronics,Tablets,343,100566.75,63783.55,36783.2
+ELETAB06,Tablets Model 6,Electronics,Tablets,495,114799.39,77731.96,37067.43
+ELETAB07,Tablets Model 7,Electronics,Tablets,273,90659.09,71987.05,18672.04
+ELETAB08,Tablets Model 8,Electronics,Tablets,103,50583.26,39036.56,11546.7
+ELETAB09,Tablets Model 9,Electronics,Tablets,320,39992.11,35491.2,4500.91
+ELETAB10,Tablets Model 10,Electronics,Tablets,229,106774.66,91355.01,15419.65
+ELEHEA01,Headphones Model 1,Electronics,Headphones,163,15713.46,10223.84,5489.62
+ELEHEA02,Headphones Model 2,Electronics,Headphones,228,29868.78,24322.6,5546.18
+ELEHEA03,Headphones Model 3,Electronics,Headphones,492,115026.78,71840.53,43186.25
+ELEHEA04,Headphones Model 4,Electronics,Headphones,74,15217.0,11018.89,4198.11
+ELEHEA05,Headphones Model 5,Electronics,Headphones,200,49903.17,37596.96,12306.21
+ELEHEA06,Headphones Model 6,Electronics,Headphones,353,77349.27,46907.58,30441.69
+ELEHEA07,Headphones Model 7,Electronics,Headphones,485,219218.81,167163.43,52055.38
+ELEHEA08,Headphones Model 8,Electronics,Headphones,395,196339.94,127779.62,68560.32
+ELEHEA09,Headphones Model 9,Electronics,Headphones,120,6840.68,5543.62,1297.06
+ELEHEA10,Headphones Model 10,Electronics,Headphones,461,188625.98,163921.74,24704.24
+FURCHA01,Chairs Model 1,Furniture,Chairs,413,182420.66,127995.55,54425.11
+FURCHA02,Chairs Model 2,Furniture,Chairs,282,14445.49,9282.58,5162.91
+FURCHA03,Chairs Model 3,Furniture,Chairs,382,57699.09,49742.15,7956.94
+FURCHA04,Chairs Model 4,Furniture,Chairs,210,34890.72,25366.95,9523.77
+FURCHA05,Chairs Model 5,Furniture,Chairs,294,25667.05,20959.53,4707.52
+FURCHA06,Chairs Model 6,Furniture,Chairs,138,38661.22,31756.75,6904.47
+FURCHA07,Chairs Model 7,Furniture,Chairs,169,43268.23,25972.04,17296.19
+FURCHA08,Chairs Model 8,Furniture,Chairs,196,55128.18,36329.21,18798.97
+FURCHA09,Chairs Model 9,Furniture,Chairs,209,39461.47,33187.47,6274.0
+FURCHA10,Chairs Model 10,Furniture,Chairs,160,66535.65,50111.53,16424.12
+FURTAB01,Tables Model 1,Furniture,Tables,211,15287.83,12687.74,2600.09
+FURTAB02,Tables Model 2,Furniture,Tables,97,7151.0,5000.85,2150.15
+FURTAB03,Tables Model 3,Furniture,Tables,231,19951.9,17156.4,2795.5
+FURTAB04,Tables Model 4,Furniture,Tables,221,26690.45,22822.87,3867.58
+FURTAB05,Tables Model 5,Furniture,Tables,275,52215.43,37426.51,14788.92
+FURTAB06,Tables Model 6,Furniture,Tables,398,138180.32,101997.81,36182.51
+FURTAB07,Tables Model 7,Furniture,Tables,483,164138.45,126952.53,37185.92
+FURTAB08,Tables Model 8,Furniture,Tables,157,58574.37,50586.54,7987.83
+FURTAB09,Tables Model 9,Furniture,Tables,428,134112.76,89992.44,44120.32
+FURTAB10,Tables Model 10,Furniture,Tables,114,37592.06,25309.34,12282.72
+FURCAB01,Cabinets Model 1,Furniture,Cabinets,199,99076.24,71525.17,27551.07
+FURCAB02,Cabinets Model 2,Furniture,Cabinets,227,27295.06,21007.48,6287.58
+FURCAB03,Cabinets Model 3,Furniture,Cabinets,327,108869.64,69839.92,39029.72
+FURCAB04,Cabinets Model 4,Furniture,Cabinets,308,63877.74,39634.39,24243.35
+FURCAB05,Cabinets Model 5,Furniture,Cabinets,228,82228.0,66103.38,16124.62
+FURCAB06,Cabinets Model 6,Furniture,Cabinets,52,6583.71,5085.91,1497.8
+FURCAB07,Cabinets Model 7,Furniture,Cabinets,273,122891.12,99856.91,23034.21
+FURCAB08,Cabinets Model 8,Furniture,Cabinets,144,43397.8,31291.2,12106.6
+FURCAB09,Cabinets Model 9,Furniture,Cabinets,354,137505.06,115245.68,22259.38
+FURCAB10,Cabinets Model 10,Furniture,Cabinets,310,95819.5,73935.49,21884.01
+FURSOF01,Sofas Model 1,Furniture,Sofas,333,104914.74,63220.05,41694.69
+FURSOF02,Sofas Model 2,Furniture,Sofas,134,14990.79,9326.44,5664.35
+FURSOF03,Sofas Model 3,Furniture,Sofas,227,47229.2,28451.59,18777.61
+FURSOF04,Sofas Model 4,Furniture,Sofas,303,28121.4,23833.54,4287.86
+FURSOF05,Sofas Model 5,Furniture,Sofas,232,16280.04,14630.6,1649.44
+FURSOF06,Sofas Model 6,Furniture,Sofas,491,220594.11,164283.17,56310.94
+FURSOF07,Sofas Model 7,Furniture,Sofas,71,17263.33,13147.5,4115.83
+FURSOF08,Sofas Model 8,Furniture,Sofas,367,163252.69,105386.87,57865.82
+FURSOF09,Sofas Model 9,Furniture,Sofas,346,155152.08,103859.2,51292.88
+FURSOF10,Sofas Model 10,Furniture,Sofas,381,35699.24,23665.35,12033.89
+APPREF01,Refrigerators Model 1,Appliances,Refrigerators,493,120499.28,84871.62,35627.66
+APPREF02,Refrigerators Model 2,Appliances,Refrigerators,97,11465.66,7428.76,4036.9
+APPREF03,Refrigerators Model 3,Appliances,Refrigerators,374,170039.34,105839.43,64199.91
+APPREF04,Refrigerators Model 4,Appliances,Refrigerators,422,112626.05,76656.84,35969.21
+APPREF05,Refrigerators Model 5,Appliances,Refrigerators,164,70636.22,50300.81,20335.41
+APPREF06,Refrigerators Model 6,Appliances,Refrigerators,75,24679.72,20198.14,4481.58
+APPREF07,Refrigerators Model 7,Appliances,Refrigerators,148,13573.7,9968.03,3605.67
+APPREF08,Refrigerators Model 8,Appliances,Refrigerators,383,123117.97,100313.51,22804.46
+APPREF09,Refrigerators Model 9,Appliances,Refrigerators,317,32973.69,24410.13,8563.56
+APPREF10,Refrigerators Model 10,Appliances,Refrigerators,218,79978.12,62170.45,17807.67
+APPMIC01,Microwaves Model 1,Appliances,Microwaves,251,122714.36,88256.62,34457.74
+APPMIC02,Microwaves Model 2,Appliances,Microwaves,302,81258.21,60500.56,20757.65
+APPMIC03,Microwaves Model 3,Appliances,Microwaves,497,169776.19,123290.63,46485.56
+APPMIC04,Microwaves Model 4,Appliances,Microwaves,89,20574.82,14834.31,5740.51
+APPMIC05,Microwaves Model 5,Appliances,Microwaves,473,80805.89,66312.9,14492.99
+APPMIC06,Microwaves Model 6,Appliances,Microwaves,388,170348.42,121189.99,49158.43
+APPMIC07,Microwaves Model 7,Appliances,Microwaves,163,74225.28,63011.66,11213.62
+APPMIC08,Microwaves Model 8,Appliances,Microwaves,278,130632.79,106652.19,23980.6
+APPMIC09,Microwaves Model 9,Appliances,Microwaves,485,158805.92,99643.65,59162.27
+APPMIC10,Microwaves Model 10,Appliances,Microwaves,460,161730.14,141732.04,19998.1
+APPWAS01,Washing Machines Model 1,Appliances,Washing Machines,247,39774.58,34271.36,5503.22
+APPWAS02,Washing Machines Model 2,Appliances,Washing Machines,88,9990.31,6420.44,3569.87
+APPWAS03,Washing Machines Model 3,Appliances,Washing Machines,235,104674.62,82638.08,22036.54
+APPWAS04,Washing Machines Model 4,Appliances,Washing Machines,462,169135.6,142868.9,26266.7
+APPWAS05,Washing Machines Model 5,Appliances,Washing Machines,314,112286.35,99683.33,12603.02
+APPWAS06,Washing Machines Model 6,Appliances,Washing Machines,151,33738.67,22719.47,11019.2
+APPWAS07,Washing Machines Model 7,Appliances,Washing Machines,215,28491.1,17150.63,11340.47
+APPWAS08,Washing Machines Model 8,Appliances,Washing Machines,355,163846.84,137461.96,26384.88
+APPWAS09,Washing Machines Model 9,Appliances,Washing Machines,442,176310.81,129925.04,46385.77
+APPWAS10,Washing Machines Model 10,Appliances,Washing Machines,206,14482.32,11172.37,3309.95
+APPAIR01,Air Conditioners Model 1,Appliances,Air Conditioners,344,122050.8,104163.46,17887.34
+APPAIR02,Air Conditioners Model 2,Appliances,Air Conditioners,406,171020.24,125413.9,45606.34
+APPAIR03,Air Conditioners Model 3,Appliances,Air Conditioners,124,10793.34,6630.55,4162.79
+APPAIR04,Air Conditioners Model 4,Appliances,Air Conditioners,152,37496.58,26099.11,11397.47
+APPAIR05,Air Conditioners Model 5,Appliances,Air Conditioners,263,103806.03,67046.13,36759.9
+APPAIR06,Air Conditioners Model 6,Appliances,Air Conditioners,356,30148.2,24356.96,5791.24
+APPAIR07,Air Conditioners Model 7,Appliances,Air Conditioners,130,40824.74,33765.59,7059.15
+APPAIR08,Air Conditioners Model 8,Appliances,Air Conditioners,391,132469.28,101646.5,30822.78
+APPAIR09,Air Conditioners Model 9,Appliances,Air Conditioners,124,25125.48,15254.67,9870.81
+APPAIR10,Air Conditioners Model 10,Appliances,Air Conditioners,284,130040.3,111796.72,18243.58

@@ -1,0 +1,501 @@
+Order ID,Order Date,Ship Date,Region,Country,Product Name,Category,Sub-Category,Sales,Profit,Quantity,Discount
+B2EAC798,2023-05-26,2023-06-03,Asia,Japan,Tables - Poor,Furniture,Tables,1404.1,137.8,7,0.06
+E9008954,2023-02-17,2023-02-26,Europe,Germany,Printers - Staff,Technology,Printers,1479.86,387.69,1,0.04
+28BD0214,2024-10-13,2024-10-17,Asia,China,Paper - Model,Office Supplies,Paper,743.47,56.92,9,0.1
+11EF2FDB,2023-05-15,2023-05-16,Asia,Singapore,Pens - Myself,Office Supplies,Pens,1172.0,103.25,3,0.2
+05E639EF,2024-10-03,2024-10-07,North America,USA,Phones - Door,Technology,Phones,564.1,71.89,3,0.11
+7E46F280,2025-03-12,2025-03-18,Europe,France,Chairs - Common,Furniture,Chairs,426.96,58.24,10,0.27
+C0258587,2022-12-11,2022-12-19,North America,Canada,Phones - Close,Technology,Phones,818.27,209.28,6,0.01
+8A5592F8,2024-03-21,2024-03-26,Asia,Japan,Printers - Cover,Technology,Printers,868.59,201.15,3,0.29
+9E831D7B,2025-02-18,2025-02-23,Asia,India,Laptops - We,Technology,Laptops,854.5,208.9,2,0.24
+A94D772F,2024-08-24,2024-08-25,North America,USA,Bookcases - None,Furniture,Bookcases,942.21,181.62,5,0.18
+530CE801,2024-08-16,2024-08-21,Asia,Japan,Bookcases - Move,Furniture,Bookcases,1881.43,523.32,3,0.03
+482A8A54,2023-09-06,2023-09-15,North America,Mexico,Tables - Most,Furniture,Tables,462.41,77.02,10,0.04
+12E3D103,2022-06-20,2022-06-29,Asia,China,Laptops - Energy,Technology,Laptops,1156.04,129.24,3,0.05
+7CAC7D24,2024-06-03,2024-06-13,Europe,Germany,Bookcases - Especially,Furniture,Bookcases,920.4,174.69,1,0.28
+73F0BEFE,2022-12-12,2022-12-22,North America,USA,Tables - Major,Furniture,Tables,663.72,79.93,8,0.08
+96122CC5,2024-05-05,2024-05-06,North America,USA,Binders - Set,Office Supplies,Binders,593.1,33.03,10,0.24
+285A2F79,2022-10-04,2022-10-14,Asia,India,Phones - Gun,Technology,Phones,970.26,179.05,6,0.16
+13BD2034,2024-08-04,2024-08-06,North America,USA,Chairs - Of,Furniture,Chairs,1834.96,316.25,6,0.08
+7281A533,2023-08-21,2023-08-26,Asia,South Korea,Phones - Sea,Technology,Phones,973.11,192.61,5,0.24
+B24C3391,2023-08-03,2023-08-12,Europe,Germany,Pens - Technology,Office Supplies,Pens,877.34,231.09,10,0.26
+D3219C1D,2023-05-10,2023-05-20,Asia,Japan,Bookcases - Truth,Furniture,Bookcases,1899.81,390.14,2,0.14
+E6289661,2023-07-15,2023-07-16,Asia,Singapore,Printers - Catch,Technology,Printers,1448.81,356.3,1,0.3
+FAFA6744,2024-11-03,2024-11-07,North America,USA,Laptops - Need,Technology,Laptops,1236.42,187.14,6,0.05
+EF07AA8E,2023-06-07,2023-06-09,North America,USA,Binders - Unit,Office Supplies,Binders,635.42,177.16,6,0.25
+72CF5DB9,2024-01-14,2024-01-20,North America,Canada,Chairs - Glass,Furniture,Chairs,744.06,176.6,5,0.25
+6861C612,2024-05-25,2024-05-31,North America,Canada,Printers - Boy,Technology,Printers,1776.93,499.16,5,0.13
+F62B1D6B,2024-01-09,2024-01-15,Europe,Germany,Pens - Approach,Office Supplies,Pens,974.35,251.08,10,0.13
+8A655426,2023-12-23,2023-12-27,North America,Mexico,Laptops - Expect,Technology,Laptops,1797.7,489.52,9,0.28
+74D58079,2023-11-18,2023-11-21,Asia,Japan,Bookcases - Product,Furniture,Bookcases,580.91,143.13,8,0.29
+13D563C7,2022-07-09,2022-07-15,Asia,India,Chairs - Mrs,Furniture,Chairs,1721.07,401.85,5,0.04
+CF75AB0A,2024-09-08,2024-09-09,Europe,Spain,Phones - Attorney,Technology,Phones,1587.27,235.47,9,0.11
+6ECAE110,2023-03-24,2023-03-30,North America,Canada,Chairs - Agent,Furniture,Chairs,1946.97,447.0,4,0.03
+35349925,2022-06-30,2022-07-06,Europe,Italy,Paper - Strong,Office Supplies,Paper,1374.61,178.95,3,0.26
+436450F8,2022-04-24,2022-05-04,North America,USA,Paper - Just,Office Supplies,Paper,955.37,282.56,9,0.26
+86CA579C,2024-06-21,2024-06-29,Europe,France,Laptops - Start,Technology,Laptops,1455.95,293.31,3,0.15
+0667EF1E,2022-12-15,2022-12-19,Asia,China,Pens - Nothing,Office Supplies,Pens,1750.47,141.04,10,0.28
+47A24F85,2022-09-13,2022-09-23,North America,Mexico,Bookcases - Card,Furniture,Bookcases,314.76,32.99,1,0.18
+C2DD018A,2023-09-30,2023-10-07,Europe,Germany,Paper - Eat,Office Supplies,Paper,1650.11,325.93,9,0.04
+053FEAE1,2023-03-25,2023-04-01,Europe,Italy,Printers - Sell,Technology,Printers,344.38,49.42,7,0.15
+0A065619,2024-09-16,2024-09-20,Asia,India,Pens - Her,Office Supplies,Pens,328.84,26.11,7,0.18
+AD653677,2025-02-24,2025-02-27,Europe,France,Pens - Your,Office Supplies,Pens,1029.78,133.2,7,0.24
+DDCBDDA0,2022-04-07,2022-04-16,Asia,South Korea,Bookcases - Toward,Furniture,Bookcases,535.45,111.23,6,0.24
+F24E0304,2024-09-19,2024-09-29,North America,Mexico,Pens - Wait,Office Supplies,Pens,1875.34,138.31,3,0.18
+0192B734,2022-06-03,2022-06-06,Asia,Singapore,Laptops - Just,Technology,Laptops,1533.75,406.65,1,0.24
+9322CF54,2022-08-09,2022-08-16,Europe,Spain,Binders - Now,Office Supplies,Binders,430.04,68.59,1,0.18
+9643D6E4,2022-09-22,2022-09-30,Asia,China,Chairs - Shake,Furniture,Chairs,1957.96,107.43,8,0.11
+FAA543F8,2022-12-09,2022-12-17,Europe,UK,Laptops - Address,Technology,Laptops,279.34,19.53,4,0.22
+613F3510,2023-09-28,2023-10-03,Europe,France,Bookcases - Speak,Furniture,Bookcases,838.76,183.5,2,0.27
+E7EDDCF1,2022-10-10,2022-10-13,North America,Mexico,Binders - Miss,Office Supplies,Binders,484.75,59.96,3,0.2
+6A361B46,2024-12-29,2025-01-02,Asia,China,Binders - Author,Office Supplies,Binders,84.23,16.26,8,0.26
+52087ED5,2024-10-16,2024-10-19,Europe,Spain,Laptops - Book,Technology,Laptops,339.49,72.76,2,0.04
+B694C25B,2022-10-05,2022-10-10,Asia,Singapore,Paper - Show,Office Supplies,Paper,1031.51,271.31,8,0.07
+14B6B7F4,2024-03-28,2024-04-05,Europe,Germany,Binders - Radio,Office Supplies,Binders,884.08,172.49,2,0.14
+476E55DE,2024-12-08,2024-12-09,Europe,Italy,Phones - Relate,Technology,Phones,1715.75,441.65,5,0.16
+B72C1288,2024-06-26,2024-07-01,Asia,Singapore,Chairs - Stock,Furniture,Chairs,1820.83,182.16,3,0.15
+374D8336,2024-09-09,2024-09-16,Europe,Italy,Pens - Section,Office Supplies,Pens,1771.76,395.7,3,0.14
+FBDAEF8E,2023-03-27,2023-04-06,Asia,Japan,Laptops - Where,Technology,Laptops,1042.3,185.11,8,0.1
+4A3B1F5C,2023-05-13,2023-05-17,Asia,South Korea,Chairs - Have,Furniture,Chairs,122.83,28.54,5,0.15
+1C82EDEC,2023-05-04,2023-05-09,Europe,Spain,Laptops - Voice,Technology,Laptops,1162.04,129.53,3,0.21
+8CDC3370,2025-01-31,2025-02-06,Europe,Germany,Tables - Hundred,Furniture,Tables,129.61,25.65,9,0.18
+EA32B80C,2023-12-08,2023-12-12,North America,Canada,Laptops - Expect,Technology,Laptops,1362.7,95.56,2,0.27
+1F8C7EC0,2024-02-16,2024-02-18,Europe,UK,Paper - Image,Office Supplies,Paper,1762.5,120.3,2,0.27
+7F563051,2023-10-28,2023-11-04,North America,USA,Pens - Medical,Office Supplies,Pens,1230.85,295.14,5,0.27
+D1ED50A2,2024-07-17,2024-07-20,Asia,Singapore,Bookcases - Travel,Furniture,Bookcases,1076.21,223.66,4,0.12
+C368D09C,2023-10-13,2023-10-17,North America,USA,Binders - Something,Office Supplies,Binders,1436.03,135.15,1,0.08
+5D6B5231,2022-07-31,2022-08-07,Asia,China,Tables - Do,Furniture,Tables,1762.59,444.53,5,0.2
+2F9152ED,2023-04-09,2023-04-10,North America,USA,Tables - Piece,Furniture,Tables,1666.42,392.81,10,0.14
+2DBBE3F8,2022-12-19,2022-12-26,North America,Canada,Laptops - Head,Technology,Laptops,1147.09,255.99,1,0.15
+A88A5853,2022-09-23,2022-09-28,Asia,Japan,Paper - Field,Office Supplies,Paper,1078.2,289.31,5,0.27
+ECBF4960,2024-09-28,2024-10-04,North America,Mexico,Printers - Conference,Technology,Printers,998.74,66.0,10,0.19
+EFB78474,2025-01-04,2025-01-14,Asia,Japan,Tables - Media,Furniture,Tables,1064.28,283.04,5,0.2
+3B8D2AEA,2024-10-26,2024-11-04,Europe,Italy,Phones - Strategy,Technology,Phones,1110.2,233.53,8,0.1
+DC2CCD48,2024-02-05,2024-02-08,Asia,Singapore,Binders - About,Office Supplies,Binders,815.49,80.14,1,0.28
+EE328C03,2024-07-06,2024-07-12,Europe,Italy,Bookcases - Population,Furniture,Bookcases,432.55,91.46,2,0.1
+124BDFDA,2023-06-28,2023-07-07,Europe,Germany,Chairs - Study,Furniture,Chairs,1266.72,306.79,9,0.07
+D99EE0EB,2024-11-16,2024-11-21,Europe,France,Phones - Can,Technology,Phones,1243.61,186.3,5,0.28
+2BF4B9EA,2025-03-23,2025-03-28,Asia,China,Tables - Little,Furniture,Tables,633.58,174.3,7,0.3
+242CB340,2024-01-06,2024-01-09,North America,Canada,Printers - Tv,Technology,Printers,1801.42,230.92,5,0.15
+E857FDF7,2023-08-10,2023-08-18,Asia,Singapore,Chairs - Ground,Furniture,Chairs,560.29,157.99,10,0.08
+C13FD462,2024-10-15,2024-10-25,Europe,Spain,Tables - Night,Furniture,Tables,1740.74,87.25,8,0.28
+8A861880,2024-07-17,2024-07-21,North America,USA,Printers - Team,Technology,Printers,1695.11,167.06,1,0.04
+F0B1BFCB,2022-10-07,2022-10-09,North America,USA,Chairs - College,Furniture,Chairs,1232.46,275.61,2,0.03
+C5DF5A3C,2023-05-20,2023-05-24,Asia,South Korea,Laptops - Spend,Technology,Laptops,1384.18,253.2,1,0.07
+10D80328,2024-02-09,2024-02-18,Asia,Japan,Laptops - Recent,Technology,Laptops,1819.88,384.14,1,0.21
+2223ECEF,2022-09-02,2022-09-03,North America,Canada,Chairs - Significant,Furniture,Chairs,207.43,32.43,7,0.05
+9B2C5AE5,2024-03-09,2024-03-16,North America,Mexico,Printers - Away,Technology,Printers,116.62,25.9,10,0.11
+AA2D3898,2022-11-07,2022-11-17,Europe,Italy,Chairs - Cell,Furniture,Chairs,430.78,57.11,8,0.06
+B8F6D32B,2022-05-11,2022-05-13,North America,USA,Paper - Organization,Office Supplies,Paper,516.55,95.84,5,0.06
+B589C033,2022-08-09,2022-08-12,North America,USA,Bookcases - Fire,Furniture,Bookcases,1518.3,105.95,4,0.2
+9FA6B4EB,2023-07-25,2023-08-03,Asia,South Korea,Chairs - Past,Furniture,Chairs,970.65,176.33,7,0.28
+2EED22D2,2023-11-16,2023-11-26,Europe,Germany,Printers - Service,Technology,Printers,1943.95,496.83,9,0.05
+A94A4DF4,2022-09-08,2022-09-15,Europe,France,Paper - New,Office Supplies,Paper,608.49,171.87,5,0.21
+E1F9C520,2023-05-14,2023-05-16,North America,Canada,Paper - Seven,Office Supplies,Paper,345.2,81.51,2,0.1
+D49D9D91,2023-11-30,2023-12-02,North America,USA,Printers - Difficult,Technology,Printers,293.94,47.99,2,0.02
+6E8D8845,2024-01-21,2024-01-31,Asia,Singapore,Paper - Strategy,Office Supplies,Paper,48.43,7.0,2,0.1
+A0838791,2022-10-01,2022-10-07,North America,Mexico,Laptops - Since,Technology,Laptops,1086.95,289.55,1,0.21
+E45CB669,2024-03-07,2024-03-11,Asia,South Korea,Chairs - Anything,Furniture,Chairs,32.39,3.66,7,0.19
+14A0CA8F,2023-01-14,2023-01-20,North America,Canada,Bookcases - Start,Furniture,Bookcases,1683.89,385.27,10,0.23
+04A7D4C6,2025-01-12,2025-01-13,Asia,Japan,Paper - Computer,Office Supplies,Paper,83.23,16.22,8,0.16
+8BC973A7,2022-12-06,2022-12-10,Asia,Singapore,Binders - Central,Office Supplies,Binders,780.68,64.27,3,0.22
+03F655E7,2024-02-02,2024-02-03,Asia,South Korea,Chairs - Value,Furniture,Chairs,986.6,287.87,10,0.06
+E44C6C34,2025-01-17,2025-01-24,North America,Canada,Pens - Blue,Office Supplies,Pens,316.03,57.63,5,0.24
+755BFC7A,2025-03-11,2025-03-17,Europe,Spain,Pens - Reveal,Office Supplies,Pens,1552.7,348.01,3,0.08
+89F57166,2022-07-04,2022-07-13,North America,USA,Laptops - Suffer,Technology,Laptops,1722.28,271.94,9,0.28
+1C912825,2024-05-07,2024-05-12,Europe,UK,Chairs - Toward,Furniture,Chairs,1205.79,61.4,10,0.12
+CE8B826C,2025-03-25,2025-04-02,Asia,Japan,Tables - Body,Furniture,Tables,415.29,30.54,7,0.17
+476535DB,2022-12-08,2022-12-10,Europe,Spain,Binders - Someone,Office Supplies,Binders,1845.39,255.63,2,0.03
+F77E4A60,2024-02-14,2024-02-15,North America,Canada,Pens - Blue,Office Supplies,Pens,1365.31,169.38,4,0.03
+C08D52EE,2024-11-23,2024-12-01,North America,Canada,Paper - Matter,Office Supplies,Paper,230.33,41.52,1,0.26
+C5EB38D1,2024-10-21,2024-10-24,Asia,Japan,Phones - Great,Technology,Phones,1451.65,209.17,5,0.16
+CDCE0E34,2022-06-12,2022-06-19,Asia,Japan,Laptops - Front,Technology,Laptops,1628.86,419.86,10,0.3
+8DE5CF9E,2023-10-09,2023-10-12,North America,Mexico,Printers - Soon,Technology,Printers,1401.93,182.72,3,0.2
+061B57BF,2024-09-08,2024-09-14,North America,USA,Binders - Teach,Office Supplies,Binders,1839.27,447.28,7,0.1
+C64DA662,2024-06-16,2024-06-26,North America,Canada,Laptops - Owner,Technology,Laptops,1530.4,352.76,2,0.04
+37DE62D6,2024-06-20,2024-06-22,North America,Canada,Tables - Happen,Furniture,Tables,1606.69,381.99,9,0.07
+F787C664,2023-12-25,2023-12-27,North America,Mexico,Laptops - And,Technology,Laptops,1018.56,290.12,9,0.11
+0A127368,2024-02-26,2024-02-28,Asia,Singapore,Laptops - Physical,Technology,Laptops,1845.09,553.47,8,0.09
+74B98AAA,2022-11-20,2022-11-26,North America,USA,Bookcases - Population,Furniture,Bookcases,11.44,0.89,4,0.08
+E3ADD78F,2022-12-18,2022-12-20,North America,Mexico,Pens - Wear,Office Supplies,Pens,1076.33,305.87,7,0.23
+F1FBF95F,2024-09-21,2024-09-28,Asia,India,Printers - Foreign,Technology,Printers,1213.92,151.65,4,0.16
+F84D68E7,2023-11-07,2023-11-11,Asia,Japan,Bookcases - Person,Furniture,Bookcases,1699.72,476.89,1,0.17
+94ADCDB8,2023-06-05,2023-06-07,Asia,Singapore,Binders - Ten,Office Supplies,Binders,1973.88,266.3,3,0.25
+B4B2DDEE,2024-02-27,2024-03-07,Asia,South Korea,Printers - Air,Technology,Printers,1072.83,73.55,3,0.12
+FA33F5EE,2025-03-14,2025-03-15,Europe,Germany,Phones - Inside,Technology,Phones,1073.64,159.28,1,0.17
+9189F15C,2023-05-25,2023-06-04,North America,Canada,Chairs - Range,Furniture,Chairs,15.4,4.01,9,0.26
+B27351A3,2024-10-11,2024-10-13,Asia,Japan,Paper - Box,Office Supplies,Paper,301.8,61.09,2,0.27
+99C13D73,2023-07-30,2023-07-31,North America,USA,Paper - Money,Office Supplies,Paper,723.78,44.41,3,0.08
+BD448A9B,2022-04-14,2022-04-19,North America,USA,Tables - A,Furniture,Tables,544.53,109.74,5,0.27
+B44B7621,2023-02-28,2023-03-05,Asia,China,Bookcases - Most,Furniture,Bookcases,1512.31,451.47,2,0.11
+2451D20B,2024-07-10,2024-07-19,Europe,Germany,Pens - Others,Office Supplies,Pens,93.37,26.02,4,0.13
+9923E0DA,2022-08-18,2022-08-21,Asia,China,Bookcases - Likely,Furniture,Bookcases,202.12,36.82,4,0.27
+FB6DB210,2024-11-29,2024-12-08,North America,Mexico,Tables - She,Furniture,Tables,766.24,205.6,4,0.29
+907F7FDE,2024-05-26,2024-06-05,Asia,South Korea,Laptops - Any,Technology,Laptops,1646.08,169.35,6,0.27
+C2AB62B8,2023-12-26,2024-01-01,Europe,France,Paper - Effect,Office Supplies,Paper,420.59,45.35,9,0.09
+E2C5C6F9,2025-03-04,2025-03-06,Europe,Spain,Pens - Type,Office Supplies,Pens,1398.88,101.31,2,0.09
+90E52B54,2025-02-13,2025-02-21,Asia,South Korea,Paper - Education,Office Supplies,Paper,1371.77,219.89,1,0.22
+E47075D5,2024-08-06,2024-08-08,Europe,Germany,Chairs - Kid,Furniture,Chairs,1757.64,480.65,8,0.08
+0B99DB3F,2022-10-05,2022-10-15,Europe,Germany,Paper - Full,Office Supplies,Paper,613.31,112.37,4,0.27
+42BD24C3,2024-07-01,2024-07-07,Asia,India,Tables - Quickly,Furniture,Tables,1983.23,515.65,2,0.22
+4537A909,2024-11-16,2024-11-18,Asia,South Korea,Pens - Our,Office Supplies,Pens,719.26,147.74,4,0.04
+A47B1DD2,2024-06-26,2024-06-30,North America,USA,Bookcases - Expect,Furniture,Bookcases,1039.05,202.05,3,0.22
+A4752F51,2023-07-16,2023-07-24,Asia,Japan,Phones - Condition,Technology,Phones,1944.82,241.31,8,0.09
+8DDE4739,2022-10-09,2022-10-14,North America,Mexico,Tables - Detail,Furniture,Tables,1931.91,333.01,4,0.02
+313C1756,2022-11-30,2022-12-04,Asia,Singapore,Laptops - Provide,Technology,Laptops,1195.28,242.9,8,0.0
+0E4B26A1,2022-07-25,2022-07-30,Asia,India,Laptops - Money,Technology,Laptops,326.94,77.63,9,0.19
+84D09771,2024-11-28,2024-12-07,Asia,Japan,Paper - Thousand,Office Supplies,Paper,1423.57,399.0,6,0.17
+D6906499,2023-03-01,2023-03-11,Asia,Japan,Paper - Ability,Office Supplies,Paper,57.28,5.71,2,0.19
+5E7BD721,2023-03-30,2023-04-02,North America,Canada,Laptops - Above,Technology,Laptops,1888.48,445.76,1,0.3
+DC565183,2025-02-09,2025-02-16,Asia,Singapore,Binders - Send,Office Supplies,Binders,1268.39,344.06,1,0.06
+7604CB06,2023-01-17,2023-01-19,North America,Canada,Phones - Ago,Technology,Phones,768.34,46.2,6,0.04
+3378AF69,2022-07-21,2022-07-30,Europe,France,Laptops - Pm,Technology,Laptops,625.33,80.92,2,0.13
+DF5C180C,2023-05-21,2023-05-24,Asia,Singapore,Binders - Boy,Office Supplies,Binders,1339.39,80.03,1,0.26
+966A4E7A,2024-09-19,2024-09-25,Asia,South Korea,Paper - Whose,Office Supplies,Paper,1567.89,145.87,1,0.21
+D0454A31,2023-08-04,2023-08-09,North America,Mexico,Chairs - Focus,Furniture,Chairs,1775.17,366.02,7,0.09
+32A1CF7B,2023-03-14,2023-03-18,North America,USA,Paper - Major,Office Supplies,Paper,1136.9,325.24,5,0.09
+4F9AC296,2023-10-16,2023-10-18,Asia,Singapore,Paper - Republican,Office Supplies,Paper,59.67,15.42,7,0.2
+93982537,2022-10-26,2022-10-30,North America,Canada,Tables - See,Furniture,Tables,1641.77,448.6,5,0.03
+1784C717,2023-05-06,2023-05-10,Asia,Japan,Binders - Leg,Office Supplies,Binders,1455.85,422.95,3,0.05
+88693148,2024-12-23,2025-01-02,Europe,France,Laptops - Direction,Technology,Laptops,1888.08,143.93,4,0.27
+6E9511F5,2023-10-21,2023-10-29,Asia,Japan,Tables - Paper,Furniture,Tables,801.34,131.74,2,0.18
+5CFE08EA,2022-08-04,2022-08-08,Europe,Spain,Pens - Building,Office Supplies,Pens,1403.12,307.63,3,0.28
+6421E6DF,2022-04-15,2022-04-22,Asia,Singapore,Tables - Democrat,Furniture,Tables,950.93,160.69,10,0.11
+20B4AEC1,2023-07-06,2023-07-13,Europe,Spain,Laptops - Real,Technology,Laptops,1290.57,278.64,8,0.29
+5EF48933,2022-07-29,2022-07-31,North America,Mexico,Paper - Reality,Office Supplies,Paper,469.97,58.21,3,0.12
+76EE67D2,2023-06-08,2023-06-09,Asia,China,Paper - Public,Office Supplies,Paper,829.29,73.68,8,0.03
+2073E244,2024-04-22,2024-04-25,Asia,Singapore,Printers - Pattern,Technology,Printers,765.54,209.73,1,0.25
+531745A4,2022-12-08,2022-12-09,North America,Canada,Paper - Concern,Office Supplies,Paper,1935.65,251.53,6,0.07
+B6A517D3,2025-02-19,2025-02-23,North America,Canada,Chairs - Toward,Furniture,Chairs,41.57,9.3,5,0.14
+56C4FF3A,2025-03-18,2025-03-21,North America,USA,Tables - Shoulder,Furniture,Tables,815.55,204.3,9,0.29
+ECE813E5,2024-11-04,2024-11-10,North America,Mexico,Printers - Alone,Technology,Printers,1568.75,113.89,1,0.29
+A5ED5936,2024-07-24,2024-08-01,Asia,South Korea,Phones - High,Technology,Phones,358.38,29.52,1,0.2
+551E3D01,2022-10-12,2022-10-22,Asia,India,Tables - Effort,Furniture,Tables,125.92,11.43,9,0.14
+AD37FE46,2023-08-11,2023-08-15,North America,Mexico,Phones - Listen,Technology,Phones,514.32,28.05,5,0.19
+DFA7D1A2,2024-01-08,2024-01-16,Europe,Italy,Printers - Total,Technology,Printers,700.06,199.32,9,0.26
+3F05DB0A,2023-04-02,2023-04-05,Asia,China,Pens - Surface,Office Supplies,Pens,1490.46,162.23,3,0.24
+C537E372,2023-11-02,2023-11-03,North America,Mexico,Paper - Agent,Office Supplies,Paper,502.56,29.82,4,0.2
+16884C5E,2023-07-19,2023-07-27,Europe,Italy,Phones - Policy,Technology,Phones,38.27,3.38,8,0.05
+0E7E2839,2022-09-03,2022-09-07,North America,Mexico,Chairs - Simple,Furniture,Chairs,963.08,50.5,8,0.14
+5DB632FD,2023-07-06,2023-07-08,North America,Canada,Bookcases - Argue,Furniture,Bookcases,1382.21,256.54,7,0.28
+DC24F8B2,2024-04-16,2024-04-18,North America,Mexico,Binders - Space,Office Supplies,Binders,1697.65,456.21,2,0.16
+A3C09A2E,2022-07-14,2022-07-24,Europe,Germany,Chairs - Hundred,Furniture,Chairs,222.73,40.15,5,0.09
+7501365C,2022-07-06,2022-07-10,North America,Mexico,Tables - Line,Furniture,Tables,112.1,18.35,9,0.15
+31FC939C,2022-11-29,2022-12-02,Europe,Spain,Printers - By,Technology,Printers,1938.99,435.15,2,0.2
+2BE45986,2024-10-15,2024-10-19,Asia,India,Paper - Lawyer,Office Supplies,Paper,1878.31,382.81,10,0.28
+50447CC5,2023-08-11,2023-08-15,Asia,South Korea,Paper - Tough,Office Supplies,Paper,510.57,26.11,10,0.24
+D048A292,2024-02-01,2024-02-06,Asia,Singapore,Pens - State,Office Supplies,Pens,1487.85,426.74,2,0.23
+A56C4E4D,2024-03-20,2024-03-21,North America,Mexico,Binders - Move,Office Supplies,Binders,69.66,5.26,8,0.17
+565A30A4,2022-05-16,2022-05-25,North America,Canada,Tables - Treat,Furniture,Tables,365.81,50.15,9,0.02
+6E23F49E,2024-01-10,2024-01-19,Asia,India,Pens - Great,Office Supplies,Pens,1296.03,302.88,5,0.19
+E54A41AE,2023-03-18,2023-03-28,Asia,Japan,Tables - Star,Furniture,Tables,1131.83,329.99,7,0.05
+95B88296,2023-11-28,2023-11-29,Europe,Spain,Phones - Far,Technology,Phones,607.26,181.72,10,0.3
+62750CF1,2024-12-08,2024-12-17,Europe,France,Phones - Since,Technology,Phones,1919.28,473.52,10,0.14
+C5125A63,2024-08-20,2024-08-23,North America,Canada,Pens - Western,Office Supplies,Pens,1496.86,142.66,3,0.02
+FB753078,2023-10-17,2023-10-22,Europe,UK,Phones - Trial,Technology,Phones,1677.02,102.42,5,0.13
+4A3700DB,2023-02-23,2023-02-27,Asia,South Korea,Phones - Low,Technology,Phones,1668.41,278.37,5,0.08
+C2960B23,2023-01-09,2023-01-14,North America,Mexico,Pens - Special,Office Supplies,Pens,549.87,80.98,2,0.28
+95CBA27B,2023-01-18,2023-01-28,Asia,China,Phones - Detail,Technology,Phones,782.88,233.49,5,0.25
+7634D556,2023-05-09,2023-05-19,Asia,Japan,Tables - Suddenly,Furniture,Tables,1077.84,152.27,9,0.19
+8C42E2CA,2022-07-31,2022-08-03,Asia,Singapore,Laptops - Wear,Technology,Laptops,695.05,177.41,6,0.19
+A1696736,2022-08-21,2022-08-30,Asia,Singapore,Laptops - Against,Technology,Laptops,15.36,1.13,2,0.1
+6148664E,2023-07-03,2023-07-07,North America,Canada,Laptops - Food,Technology,Laptops,52.06,13.52,8,0.13
+67C3679A,2022-08-20,2022-08-22,Europe,Spain,Tables - Imagine,Furniture,Tables,1759.79,448.54,4,0.27
+D70651C3,2024-01-27,2024-02-04,North America,USA,Bookcases - Make,Furniture,Bookcases,493.11,91.43,6,0.05
+3C652664,2023-12-16,2023-12-23,Asia,Japan,Binders - Bar,Office Supplies,Binders,1755.59,469.47,1,0.23
+17B169AF,2024-10-29,2024-11-05,Europe,Italy,Chairs - Note,Furniture,Chairs,888.2,48.34,2,0.18
+EE1172C2,2023-01-09,2023-01-14,Europe,Italy,Binders - Energy,Office Supplies,Binders,136.47,8.66,9,0.05
+4696D22A,2023-09-05,2023-09-10,Asia,China,Phones - Both,Technology,Phones,200.65,34.0,8,0.01
+BA1A353B,2023-04-15,2023-04-21,North America,USA,Bookcases - Green,Furniture,Bookcases,1909.51,352.7,8,0.26
+013AFE61,2023-12-20,2023-12-24,Europe,Germany,Laptops - Student,Technology,Laptops,1770.64,125.39,6,0.05
+40446F85,2023-06-12,2023-06-18,North America,Canada,Bookcases - Money,Furniture,Bookcases,1533.61,169.86,3,0.11
+6318CA78,2023-09-06,2023-09-11,Europe,France,Binders - Line,Office Supplies,Binders,1559.4,368.79,4,0.13
+1EE868C8,2023-04-01,2023-04-04,North America,Mexico,Printers - Structure,Technology,Printers,1019.18,305.51,9,0.11
+59EF0911,2025-01-11,2025-01-17,Asia,Japan,Paper - Response,Office Supplies,Paper,418.99,88.35,7,0.05
+3C8A9DFD,2024-05-19,2024-05-23,Asia,Japan,Printers - Development,Technology,Printers,696.06,65.16,9,0.29
+9581A23A,2024-03-27,2024-03-28,Europe,Italy,Laptops - Energy,Technology,Laptops,811.52,133.95,4,0.18
+C2C31414,2023-07-07,2023-07-13,Europe,Germany,Laptops - Action,Technology,Laptops,692.79,115.82,8,0.06
+667426C3,2024-10-08,2024-10-09,Asia,India,Laptops - Civil,Technology,Laptops,1053.08,99.33,9,0.08
+94DCE2D8,2022-10-28,2022-10-29,North America,USA,Phones - Fish,Technology,Phones,1406.51,164.5,10,0.3
+B93E57FD,2024-11-23,2024-11-28,North America,Canada,Binders - Yard,Office Supplies,Binders,1905.72,140.06,2,0.26
+DB4BAFB9,2022-05-12,2022-05-17,North America,Canada,Laptops - Wrong,Technology,Laptops,1136.05,332.99,3,0.09
+EE61DF17,2022-06-19,2022-06-27,Asia,China,Paper - Five,Office Supplies,Paper,1922.27,235.58,10,0.22
+7FD72DAA,2022-08-06,2022-08-07,Europe,France,Pens - Tree,Office Supplies,Pens,1301.81,136.29,6,0.08
+85CE6D84,2023-09-18,2023-09-22,Europe,Germany,Bookcases - Firm,Furniture,Bookcases,509.47,64.0,6,0.0
+1B0786A1,2024-05-02,2024-05-09,Europe,Italy,Chairs - Up,Furniture,Chairs,639.46,82.97,3,0.12
+AC014F54,2023-08-31,2023-09-05,North America,Mexico,Laptops - Leader,Technology,Laptops,1407.91,277.08,10,0.14
+8D80C130,2022-07-25,2022-07-30,North America,USA,Printers - Short,Technology,Printers,1788.93,459.21,4,0.14
+C84811FE,2023-09-09,2023-09-19,Asia,Japan,Binders - Professor,Office Supplies,Binders,1334.52,147.17,1,0.03
+F5D2E27B,2022-05-30,2022-06-06,Asia,Singapore,Phones - Nothing,Technology,Phones,1899.62,400.55,10,0.27
+73A880C3,2023-06-22,2023-06-26,Europe,France,Paper - Boy,Office Supplies,Paper,75.39,15.91,2,0.24
+6010AB3D,2023-10-18,2023-10-21,Europe,Spain,Laptops - Over,Technology,Laptops,1938.97,348.93,3,0.24
+55A1F554,2024-11-27,2024-12-07,Asia,Japan,Printers - Officer,Technology,Printers,1071.99,289.06,4,0.09
+84D4C8F1,2023-06-21,2023-06-30,Europe,Germany,Printers - Class,Technology,Printers,1412.59,369.1,2,0.22
+ED640871,2024-03-13,2024-03-22,North America,Canada,Binders - Establish,Office Supplies,Binders,1716.5,155.4,8,0.01
+41AFD8BC,2025-03-13,2025-03-21,North America,Canada,Laptops - Store,Technology,Laptops,785.06,218.28,5,0.2
+A4B4BCD7,2023-09-04,2023-09-06,Europe,UK,Chairs - Attack,Furniture,Chairs,858.71,91.54,10,0.29
+96DFABAA,2024-06-16,2024-06-25,Asia,China,Phones - Prove,Technology,Phones,874.67,142.47,5,0.24
+8F938704,2022-11-26,2022-12-02,North America,USA,Chairs - Understand,Furniture,Chairs,626.6,87.9,7,0.08
+7512F584,2023-03-17,2023-03-26,North America,Canada,Paper - Decide,Office Supplies,Paper,1521.94,107.7,7,0.12
+B2362E02,2022-09-18,2022-09-26,Asia,India,Printers - Nearly,Technology,Printers,618.05,75.35,5,0.03
+FE063B8E,2024-02-13,2024-02-14,Europe,Spain,Paper - During,Office Supplies,Paper,422.44,49.22,2,0.04
+23A0A3ED,2022-12-24,2022-12-31,Europe,UK,Paper - Too,Office Supplies,Paper,1447.82,430.13,9,0.02
+4D3F9D19,2024-05-30,2024-06-05,North America,Mexico,Bookcases - Improve,Furniture,Bookcases,1858.42,177.3,8,0.03
+10D49AE3,2023-11-01,2023-11-09,North America,Canada,Bookcases - Up,Furniture,Bookcases,280.79,36.41,4,0.05
+BB4B70A2,2024-10-01,2024-10-09,Europe,Italy,Chairs - Around,Furniture,Chairs,1118.66,232.36,7,0.1
+D38CD2BF,2022-12-28,2023-01-01,North America,Mexico,Binders - Radio,Office Supplies,Binders,1197.38,323.03,10,0.23
+944C09D4,2022-10-18,2022-10-26,North America,USA,Tables - Although,Furniture,Tables,1890.22,550.05,3,0.06
+4438B076,2023-11-16,2023-11-22,Europe,UK,Printers - Which,Technology,Printers,1014.44,154.36,5,0.05
+D0A3E4BB,2023-03-02,2023-03-09,North America,Canada,Chairs - Evidence,Furniture,Chairs,1205.55,247.41,4,0.02
+D62F6896,2024-10-11,2024-10-12,Asia,China,Bookcases - Machine,Furniture,Bookcases,138.11,8.76,6,0.27
+62C6997F,2023-11-27,2023-12-01,Asia,South Korea,Laptops - Stop,Technology,Laptops,879.99,146.98,1,0.22
+8CAAE8ED,2023-10-03,2023-10-09,Europe,Germany,Printers - Capital,Technology,Printers,1980.12,542.4,7,0.07
+ECDD7197,2025-02-23,2025-02-28,Europe,Germany,Binders - Book,Office Supplies,Binders,39.88,4.32,2,0.17
+A22948C3,2024-05-20,2024-05-26,Europe,France,Paper - Support,Office Supplies,Paper,702.06,86.09,1,0.15
+A8B46907,2022-08-20,2022-08-23,North America,USA,Phones - Say,Technology,Phones,745.69,70.23,5,0.14
+38B920AA,2023-08-01,2023-08-11,Europe,Germany,Tables - Day,Furniture,Tables,496.82,51.37,3,0.07
+AC3B3E77,2023-08-30,2023-09-07,Asia,Singapore,Paper - Happen,Office Supplies,Paper,1689.23,279.31,8,0.17
+D11126B7,2022-04-24,2022-04-30,Asia,Singapore,Chairs - Push,Furniture,Chairs,958.52,78.81,4,0.09
+AEDE52DA,2024-05-31,2024-06-07,Europe,UK,Chairs - Fact,Furniture,Chairs,1062.42,158.05,9,0.03
+E45C4ABF,2023-07-11,2023-07-15,Europe,Spain,Laptops - Blue,Technology,Laptops,652.71,44.76,2,0.28
+5D69C85D,2023-03-27,2023-03-30,Europe,Italy,Phones - Simple,Technology,Phones,1507.05,357.18,2,0.24
+131DF0BD,2023-08-16,2023-08-23,Europe,France,Paper - Take,Office Supplies,Paper,1360.95,171.36,10,0.17
+DB4A5A40,2022-09-08,2022-09-13,North America,USA,Phones - Positive,Technology,Phones,1676.37,426.58,9,0.14
+F3A0552B,2023-08-05,2023-08-07,Europe,Spain,Paper - Imagine,Office Supplies,Paper,877.9,119.42,6,0.1
+30D6C371,2022-08-09,2022-08-15,Europe,France,Bookcases - Big,Furniture,Bookcases,1620.01,483.87,5,0.21
+003906AF,2022-06-14,2022-06-22,Europe,UK,Binders - Move,Office Supplies,Binders,1789.3,518.0,3,0.11
+D91E3D11,2024-10-14,2024-10-19,Asia,South Korea,Laptops - Off,Technology,Laptops,327.8,93.42,8,0.14
+F7228FB4,2023-11-04,2023-11-08,Europe,Italy,Bookcases - Cut,Furniture,Bookcases,1430.72,306.87,1,0.3
+74C09EC8,2023-08-31,2023-09-06,Asia,China,Binders - Should,Office Supplies,Binders,1822.91,215.41,7,0.26
+B2E89E62,2022-09-19,2022-09-24,Europe,UK,Binders - Ground,Office Supplies,Binders,1324.4,157.34,5,0.12
+5D803851,2022-09-11,2022-09-20,Asia,India,Pens - Have,Office Supplies,Pens,648.54,71.17,5,0.29
+2019BB90,2023-01-03,2023-01-09,Asia,China,Bookcases - Lose,Furniture,Bookcases,935.9,239.16,4,0.19
+15DCB914,2024-05-07,2024-05-09,Europe,Italy,Tables - Ball,Furniture,Tables,547.55,85.88,8,0.03
+EFAFB8FA,2023-08-11,2023-08-19,Asia,China,Chairs - Always,Furniture,Chairs,1528.04,198.25,9,0.25
+3EFF3826,2022-10-16,2022-10-17,North America,USA,Tables - Defense,Furniture,Tables,1834.66,376.36,1,0.17
+0778D39A,2022-05-29,2022-06-02,Asia,Singapore,Chairs - Happen,Furniture,Chairs,342.92,95.89,10,0.11
+E26589F8,2024-11-19,2024-11-24,North America,USA,Bookcases - Thousand,Furniture,Bookcases,410.73,49.26,8,0.01
+C6C1F241,2024-11-16,2024-11-23,North America,USA,Chairs - Us,Furniture,Chairs,1784.16,110.73,6,0.0
+977A8113,2024-02-19,2024-02-28,North America,Canada,Bookcases - Hand,Furniture,Bookcases,1970.02,245.3,10,0.06
+3D604178,2023-12-19,2023-12-27,Asia,Japan,Chairs - New,Furniture,Chairs,1472.22,118.97,4,0.12
+6664EA2D,2024-06-16,2024-06-22,Asia,India,Printers - Loss,Technology,Printers,122.75,36.25,2,0.23
+255693DA,2022-04-26,2022-04-28,Europe,France,Chairs - Action,Furniture,Chairs,1064.85,165.45,8,0.07
+EC0CF13B,2023-04-18,2023-04-21,Europe,France,Binders - Southern,Office Supplies,Binders,345.48,21.34,9,0.24
+F1A42103,2022-05-26,2022-06-03,Europe,France,Bookcases - Spring,Furniture,Bookcases,588.4,157.21,9,0.2
+0161B185,2023-01-06,2023-01-15,Europe,Spain,Binders - Reason,Office Supplies,Binders,910.2,267.9,4,0.09
+2A4211D2,2024-07-25,2024-07-30,North America,USA,Tables - Add,Furniture,Tables,150.66,10.62,3,0.04
+95B234AC,2022-06-09,2022-06-10,Europe,Spain,Tables - Good,Furniture,Tables,727.01,65.46,8,0.04
+67F5A7F3,2024-08-20,2024-08-29,North America,Canada,Printers - Over,Technology,Printers,949.75,180.21,7,0.13
+22B6EEAE,2024-10-31,2024-11-01,Asia,Singapore,Bookcases - Still,Furniture,Bookcases,1553.17,307.56,7,0.28
+DE6502C4,2024-10-22,2024-10-30,North America,Canada,Phones - Generation,Technology,Phones,1593.26,304.23,8,0.01
+0ED22D6D,2022-09-16,2022-09-22,Europe,Italy,Bookcases - Best,Furniture,Bookcases,626.82,91.26,5,0.18
+FCFE47F2,2022-09-23,2022-10-03,North America,Mexico,Tables - These,Furniture,Tables,1515.41,445.42,8,0.28
+A161541F,2022-09-25,2022-10-01,Europe,Italy,Bookcases - Least,Furniture,Bookcases,1913.94,229.35,8,0.08
+76AC6F31,2023-11-15,2023-11-21,North America,USA,Binders - Summer,Office Supplies,Binders,267.64,60.6,1,0.29
+8728134E,2023-09-24,2023-09-26,Asia,Japan,Laptops - Wrong,Technology,Laptops,1887.4,422.18,6,0.21
+F7324EAA,2024-09-21,2024-09-26,Europe,Italy,Tables - Wish,Furniture,Tables,1354.17,303.0,7,0.23
+FF8B302A,2024-08-17,2024-08-21,North America,USA,Printers - Approach,Technology,Printers,698.75,154.85,9,0.29
+8D647130,2022-11-19,2022-11-22,Asia,Japan,Pens - Though,Office Supplies,Pens,1364.74,147.09,10,0.06
+D51513F3,2023-10-10,2023-10-11,Asia,India,Paper - Participant,Office Supplies,Paper,392.19,112.36,7,0.25
+3D0690FB,2022-11-25,2022-12-02,Europe,Italy,Pens - Management,Office Supplies,Pens,270.89,62.66,7,0.19
+D0AF8230,2023-12-02,2023-12-09,Asia,India,Phones - Form,Technology,Phones,1899.44,149.25,6,0.12
+32EAE3DF,2022-07-24,2022-08-03,North America,Canada,Binders - Decade,Office Supplies,Binders,738.92,191.25,10,0.28
+7C9DADAB,2022-12-27,2023-01-04,North America,Mexico,Binders - South,Office Supplies,Binders,1738.4,461.01,1,0.22
+E8BB2201,2024-12-11,2024-12-21,Europe,Germany,Phones - Director,Technology,Phones,1850.77,283.99,1,0.0
+A7519D4C,2023-07-30,2023-08-04,North America,USA,Chairs - Relationship,Furniture,Chairs,861.62,208.8,7,0.17
+F7520722,2023-02-20,2023-02-27,North America,Canada,Laptops - Rise,Technology,Laptops,1055.65,249.79,7,0.16
+4AFCF2F9,2024-02-07,2024-02-13,North America,USA,Tables - Floor,Furniture,Tables,1186.38,210.93,8,0.07
+0C52584C,2022-08-20,2022-08-21,North America,Mexico,Printers - Machine,Technology,Printers,828.03,237.62,2,0.15
+50399401,2024-04-14,2024-04-24,Asia,Japan,Bookcases - Land,Furniture,Bookcases,1123.49,270.72,9,0.22
+916451D9,2023-09-28,2023-10-04,Asia,India,Paper - Mean,Office Supplies,Paper,911.74,80.65,4,0.03
+9C5B02D9,2023-11-24,2023-12-01,North America,Canada,Laptops - Doctor,Technology,Laptops,1137.35,303.98,10,0.13
+820C54F4,2024-09-12,2024-09-13,North America,Canada,Paper - Student,Office Supplies,Paper,1896.15,567.14,4,0.01
+917EA3C8,2025-03-06,2025-03-15,North America,USA,Paper - Customer,Office Supplies,Paper,203.1,49.55,8,0.22
+36C3EFB0,2022-12-11,2022-12-19,North America,USA,Chairs - On,Furniture,Chairs,1576.0,293.91,4,0.03
+AC9EF82F,2023-06-05,2023-06-12,Europe,Italy,Paper - Physical,Office Supplies,Paper,988.56,256.76,8,0.04
+63F4B41E,2024-02-21,2024-03-02,Europe,Germany,Tables - Need,Furniture,Tables,1228.81,122.46,4,0.24
+1F7ADA6D,2024-07-17,2024-07-26,Asia,Japan,Pens - Month,Office Supplies,Pens,1538.75,109.69,8,0.23
+F2F70F7D,2025-02-04,2025-02-12,North America,Mexico,Binders - Discover,Office Supplies,Binders,1623.71,373.9,10,0.25
+6EBF8230,2023-06-07,2023-06-15,North America,Mexico,Binders - Although,Office Supplies,Binders,875.75,80.56,4,0.18
+DBF02663,2023-12-01,2023-12-11,Asia,India,Phones - Body,Technology,Phones,441.19,97.09,6,0.19
+DB1F5769,2022-09-20,2022-09-24,North America,USA,Paper - Material,Office Supplies,Paper,1966.59,145.67,9,0.21
+C92FAFF5,2025-03-01,2025-03-03,North America,Mexico,Printers - Decade,Technology,Printers,711.84,171.01,8,0.15
+6E4E738A,2025-01-01,2025-01-06,Asia,Japan,Phones - On,Technology,Phones,1523.9,164.66,8,0.23
+BF50B0F9,2023-03-14,2023-03-16,Europe,Italy,Binders - Possible,Office Supplies,Binders,83.06,13.75,2,0.07
+EE4049D7,2024-01-11,2024-01-21,Europe,UK,Paper - Rock,Office Supplies,Paper,1273.95,211.84,2,0.15
+2C24B84E,2024-02-25,2024-02-26,North America,Canada,Bookcases - Coach,Furniture,Bookcases,1254.71,325.76,1,0.05
+1941C752,2024-02-08,2024-02-11,Asia,China,Pens - Tough,Office Supplies,Pens,1737.84,503.09,10,0.04
+57CBA61D,2024-05-21,2024-05-29,Asia,Japan,Pens - Road,Office Supplies,Pens,395.77,117.76,4,0.05
+470E6092,2024-08-10,2024-08-19,Asia,India,Phones - Culture,Technology,Phones,1114.28,223.63,5,0.28
+342F30B5,2022-11-28,2022-12-07,Europe,Germany,Laptops - American,Technology,Laptops,1923.15,364.74,5,0.14
+163CC86B,2025-02-21,2025-02-22,North America,Mexico,Laptops - Enjoy,Technology,Laptops,854.06,215.2,6,0.03
+16F3F154,2024-05-15,2024-05-22,North America,Canada,Binders - Gun,Office Supplies,Binders,1148.87,156.89,5,0.11
+5179DF9C,2024-03-16,2024-03-22,Asia,China,Bookcases - Value,Furniture,Bookcases,1901.07,545.32,5,0.05
+633850D0,2024-04-09,2024-04-13,Europe,Italy,Phones - Place,Technology,Phones,1295.08,167.46,9,0.25
+1EF9E8BC,2023-10-17,2023-10-27,Europe,France,Phones - Pretty,Technology,Phones,687.16,138.57,8,0.0
+AAE8C0E3,2023-07-03,2023-07-07,Europe,Germany,Printers - Almost,Technology,Printers,1130.6,274.34,2,0.2
+09F33065,2024-05-11,2024-05-19,Asia,South Korea,Pens - Pressure,Office Supplies,Pens,1781.29,165.42,7,0.24
+02C3327A,2023-06-03,2023-06-07,North America,Mexico,Phones - Tree,Technology,Phones,260.88,63.36,2,0.21
+407E9651,2023-11-12,2023-11-19,Asia,Japan,Tables - Take,Furniture,Tables,1206.32,263.25,8,0.26
+FC5C20DA,2023-09-25,2023-10-02,Europe,France,Laptops - Detail,Technology,Laptops,183.53,25.9,1,0.06
+1DF31C46,2023-11-21,2023-11-22,Asia,Singapore,Tables - Range,Furniture,Tables,893.57,197.62,8,0.06
+BCAD781C,2022-11-13,2022-11-19,Asia,India,Laptops - Reduce,Technology,Laptops,1841.95,428.53,1,0.02
+8D578A6A,2022-06-15,2022-06-21,Asia,China,Laptops - Under,Technology,Laptops,1782.56,317.46,8,0.16
+25D50CC0,2022-04-21,2022-04-28,North America,Canada,Bookcases - Live,Furniture,Bookcases,508.3,101.21,6,0.13
+D8D996A9,2023-10-23,2023-10-28,North America,Mexico,Laptops - Interest,Technology,Laptops,1058.8,300.13,5,0.21
+D0F7F251,2024-02-22,2024-02-25,North America,Mexico,Bookcases - Share,Furniture,Bookcases,1902.26,383.16,1,0.07
+95FB4BB8,2024-12-16,2024-12-18,North America,USA,Paper - He,Office Supplies,Paper,1103.91,89.84,9,0.02
+5FB696D7,2023-01-20,2023-01-24,Europe,Germany,Chairs - Make,Furniture,Chairs,1878.2,363.22,3,0.29
+E913946F,2024-12-07,2024-12-12,Asia,India,Tables - Hit,Furniture,Tables,1064.48,170.01,2,0.01
+57B5CE6B,2024-01-25,2024-01-28,Asia,Singapore,Pens - Fine,Office Supplies,Pens,350.5,94.92,2,0.12
+95351A22,2025-03-11,2025-03-14,Asia,Singapore,Paper - Occur,Office Supplies,Paper,277.54,20.81,2,0.15
+751335BF,2023-04-14,2023-04-24,Europe,Italy,Bookcases - Week,Furniture,Bookcases,1886.64,296.08,3,0.15
+BC5BA4B6,2023-03-05,2023-03-15,North America,Canada,Binders - Green,Office Supplies,Binders,243.16,44.12,1,0.08
+514A165A,2024-08-18,2024-08-19,Europe,France,Paper - Foreign,Office Supplies,Paper,521.16,53.71,1,0.08
+4A29F0ED,2022-09-16,2022-09-17,Europe,Italy,Printers - Not,Technology,Printers,324.01,78.28,1,0.12
+B1678133,2025-03-10,2025-03-15,Europe,France,Tables - That,Furniture,Tables,1844.66,314.47,8,0.21
+14FCA3B6,2024-09-27,2024-10-02,Europe,Italy,Tables - Ever,Furniture,Tables,1623.36,409.59,1,0.02
+5C43D153,2022-11-14,2022-11-18,Asia,South Korea,Printers - Image,Technology,Printers,1148.29,79.96,10,0.18
+45C11BE0,2023-01-30,2023-02-08,Europe,Germany,Tables - Hour,Furniture,Tables,1016.79,95.47,10,0.19
+D1F5AF4C,2022-09-27,2022-10-07,North America,USA,Tables - Change,Furniture,Tables,505.4,109.05,10,0.24
+8685977A,2023-10-09,2023-10-13,Asia,Japan,Chairs - Rest,Furniture,Chairs,460.71,98.2,7,0.07
+D1D10D76,2022-05-22,2022-05-25,North America,Mexico,Tables - Away,Furniture,Tables,286.1,43.44,10,0.05
+A49B855A,2025-03-07,2025-03-12,Asia,South Korea,Pens - Growth,Office Supplies,Pens,1238.44,117.64,6,0.05
+E6407C69,2022-11-20,2022-11-27,Europe,Italy,Tables - Them,Furniture,Tables,1617.02,433.73,9,0.25
+35F0C4D8,2024-04-12,2024-04-19,North America,Canada,Bookcases - Leave,Furniture,Bookcases,126.53,8.97,7,0.22
+6C772661,2023-09-01,2023-09-02,Asia,India,Laptops - Door,Technology,Laptops,749.9,141.97,5,0.26
+EC460F9A,2022-08-29,2022-08-30,Europe,Spain,Tables - Throughout,Furniture,Tables,151.79,26.44,7,0.08
+95AC4B6C,2024-04-23,2024-05-01,Asia,China,Paper - Morning,Office Supplies,Paper,1700.98,162.85,8,0.05
+D289C7FE,2023-02-21,2023-02-25,Europe,UK,Phones - Almost,Technology,Phones,571.79,139.89,9,0.08
+E5B417D1,2023-09-29,2023-10-03,North America,Canada,Chairs - Tonight,Furniture,Chairs,1617.64,393.13,2,0.0
+D210FF79,2024-06-26,2024-07-04,North America,Mexico,Paper - Put,Office Supplies,Paper,1077.67,95.43,6,0.21
+FEE39117,2023-06-20,2023-06-24,North America,Canada,Phones - Week,Technology,Phones,511.53,48.2,4,0.28
+5D8E1E17,2024-05-13,2024-05-15,Asia,China,Phones - Their,Technology,Phones,315.64,41.67,3,0.15
+ADF26AE0,2022-08-21,2022-08-31,Europe,France,Printers - Hear,Technology,Printers,671.03,121.02,5,0.07
+ABDF79E7,2025-02-01,2025-02-09,Europe,Italy,Paper - Cost,Office Supplies,Paper,1406.89,142.92,5,0.04
+7CF4ADA8,2024-09-22,2024-10-01,Asia,Singapore,Pens - Course,Office Supplies,Pens,1448.31,404.98,2,0.07
+662EBE50,2025-02-07,2025-02-08,Asia,India,Phones - Return,Technology,Phones,1575.1,172.57,9,0.12
+14CD739C,2023-09-16,2023-09-18,Europe,France,Laptops - General,Technology,Laptops,1981.92,285.47,9,0.04
+7929480E,2023-07-10,2023-07-19,Europe,Italy,Binders - Development,Office Supplies,Binders,1421.15,298.2,2,0.28
+9BBCD5D6,2024-05-09,2024-05-15,Asia,India,Pens - Suffer,Office Supplies,Pens,1196.65,244.18,1,0.09
+B6F816A1,2024-04-16,2024-04-24,North America,Mexico,Chairs - Team,Furniture,Chairs,1548.64,426.1,1,0.3
+B13B90A9,2024-11-23,2024-12-01,Asia,China,Binders - Personal,Office Supplies,Binders,781.77,197.76,5,0.1
+C3E103E9,2023-05-17,2023-05-22,North America,Mexico,Binders - East,Office Supplies,Binders,696.45,185.15,7,0.11
+851A6D15,2024-06-04,2024-06-12,North America,USA,Binders - Subject,Office Supplies,Binders,1928.43,187.39,4,0.27
+F5FD70AC,2023-09-19,2023-09-24,North America,Canada,Pens - Manage,Office Supplies,Pens,914.36,229.68,3,0.17
+CB34BD5F,2022-06-25,2022-07-04,Europe,Spain,Tables - Health,Furniture,Tables,1955.24,194.65,5,0.19
+20CCD472,2024-08-22,2024-08-26,North America,USA,Bookcases - Laugh,Furniture,Bookcases,1311.9,357.12,7,0.16
+57B66EDE,2024-02-03,2024-02-12,Asia,South Korea,Bookcases - Gas,Furniture,Bookcases,328.58,50.81,4,0.15
+BAC77BFA,2022-11-06,2022-11-16,Europe,Germany,Printers - Myself,Technology,Printers,937.65,276.66,5,0.11
+A62AB344,2023-11-11,2023-11-18,Europe,UK,Chairs - President,Furniture,Chairs,1177.65,296.93,1,0.03
+0A7EF619,2023-01-04,2023-01-10,Asia,Singapore,Chairs - Half,Furniture,Chairs,719.41,36.26,2,0.29
+9DE10D90,2024-03-15,2024-03-23,North America,USA,Laptops - Door,Technology,Laptops,998.56,242.89,6,0.15
+01BDAA66,2022-12-31,2023-01-03,Asia,Singapore,Chairs - Beat,Furniture,Chairs,597.83,38.48,5,0.12
+8834B525,2024-01-18,2024-01-25,Asia,South Korea,Chairs - Sound,Furniture,Chairs,256.88,47.2,4,0.11
+1AB78AF4,2023-04-07,2023-04-11,Europe,Spain,Pens - Church,Office Supplies,Pens,1848.73,372.36,1,0.02
+3186BACD,2023-04-18,2023-04-25,North America,Mexico,Chairs - Relationship,Furniture,Chairs,1142.91,62.35,2,0.04
+2100FA6E,2025-01-16,2025-01-18,North America,Canada,Printers - Weight,Technology,Printers,620.56,65.63,5,0.25
+939D0CDE,2023-05-10,2023-05-19,Europe,Germany,Bookcases - Edge,Furniture,Bookcases,272.3,68.81,4,0.17
+E4FA725A,2024-12-23,2024-12-24,North America,Mexico,Chairs - Somebody,Furniture,Chairs,764.19,210.33,7,0.04
+67063A4E,2022-07-07,2022-07-14,Asia,Singapore,Chairs - Spend,Furniture,Chairs,143.42,13.88,5,0.14
+85F2900B,2022-05-16,2022-05-20,Asia,Japan,Tables - Vote,Furniture,Tables,1671.31,463.17,7,0.11
+E8CC6782,2023-07-28,2023-08-03,Asia,Singapore,Binders - Black,Office Supplies,Binders,1554.24,431.76,1,0.13
+5F1DFE54,2022-08-05,2022-08-14,Europe,Germany,Binders - Fine,Office Supplies,Binders,1933.09,342.56,9,0.11
+B49E0940,2023-12-21,2023-12-26,Europe,Spain,Chairs - Ago,Furniture,Chairs,1746.33,367.43,2,0.08
+7D24851F,2024-06-26,2024-07-05,Europe,Spain,Tables - Article,Furniture,Tables,723.4,62.25,3,0.18
+E480C68C,2024-05-11,2024-05-18,Europe,France,Chairs - Bank,Furniture,Chairs,883.43,110.72,5,0.1
+5E4A0E9A,2023-04-09,2023-04-13,Asia,South Korea,Binders - Standard,Office Supplies,Binders,1049.68,210.59,8,0.1
+040FF1EF,2024-06-18,2024-06-24,Europe,UK,Paper - Boy,Office Supplies,Paper,1842.13,332.67,6,0.23
+9FA7D807,2024-02-09,2024-02-12,North America,Canada,Tables - Add,Furniture,Tables,1910.59,161.58,6,0.11
+96C98BDC,2022-04-09,2022-04-13,Europe,Germany,Pens - Wonder,Office Supplies,Pens,61.67,7.36,1,0.23
+5B3F5057,2022-09-28,2022-10-02,Europe,Italy,Tables - Miss,Furniture,Tables,1067.0,68.65,3,0.17
+6D7A308E,2022-09-20,2022-09-22,North America,Canada,Laptops - Arm,Technology,Laptops,1788.22,288.88,7,0.17
+57283D5C,2025-01-31,2025-02-03,North America,Canada,Bookcases - Whose,Furniture,Bookcases,614.03,37.44,10,0.05
+BB7E8BE7,2024-05-21,2024-05-24,Asia,South Korea,Phones - Rather,Technology,Phones,1311.41,344.02,2,0.22
+F5E20CB2,2023-07-13,2023-07-14,Asia,China,Printers - Career,Technology,Printers,638.99,69.47,10,0.1
+A322F40F,2024-02-23,2024-02-28,North America,USA,Pens - Wrong,Office Supplies,Pens,1198.32,276.54,10,0.14
+A93AE297,2023-05-04,2023-05-13,Europe,UK,Binders - Remember,Office Supplies,Binders,288.77,61.38,7,0.19
+B500910F,2023-06-23,2023-06-29,Asia,China,Pens - Clearly,Office Supplies,Pens,1125.06,103.74,7,0.17
+836B8550,2024-10-23,2024-10-26,Europe,Spain,Tables - Cost,Furniture,Tables,710.04,130.53,3,0.13
+7CFA8906,2024-10-27,2024-10-29,Europe,Italy,Bookcases - Interesting,Furniture,Bookcases,840.42,56.06,6,0.03
+388E7003,2023-04-15,2023-04-19,Europe,France,Bookcases - Cup,Furniture,Bookcases,1854.75,544.72,8,0.11
+4D53B1F5,2022-07-13,2022-07-22,Asia,Singapore,Chairs - Sound,Furniture,Chairs,1663.51,481.59,7,0.26
+71D32717,2022-12-02,2022-12-11,Europe,UK,Binders - Media,Office Supplies,Binders,994.51,96.72,2,0.0
+DEB9B1D3,2023-01-19,2023-01-20,Europe,Spain,Laptops - Discuss,Technology,Laptops,109.22,25.02,10,0.17
+2906717F,2025-01-21,2025-01-22,Europe,Germany,Pens - Close,Office Supplies,Pens,1387.25,332.2,5,0.01
+993AFC9C,2024-08-10,2024-08-11,Europe,France,Chairs - Former,Furniture,Chairs,1248.01,365.25,7,0.09
+73C95966,2023-02-11,2023-02-20,Europe,Germany,Tables - Major,Furniture,Tables,263.38,35.08,3,0.15
+F0D580C5,2022-11-20,2022-11-29,Asia,China,Phones - Themselves,Technology,Phones,174.34,17.59,5,0.13
+3234FE68,2024-11-20,2024-11-21,Asia,South Korea,Phones - Pressure,Technology,Phones,1655.05,433.54,8,0.15
+BCBC9E2E,2022-04-09,2022-04-17,Europe,Spain,Pens - Role,Office Supplies,Pens,1461.63,228.32,1,0.15
+39790C22,2022-04-19,2022-04-25,Europe,UK,Paper - Music,Office Supplies,Paper,1340.18,389.8,4,0.16
+8A8C53B3,2022-06-22,2022-07-01,North America,Mexico,Bookcases - Yes,Furniture,Bookcases,99.99,8.19,4,0.04
+51007B10,2022-05-04,2022-05-08,North America,USA,Tables - Color,Furniture,Tables,1558.97,429.51,6,0.16
+B76E0E11,2024-05-08,2024-05-10,Asia,Japan,Binders - Before,Office Supplies,Binders,1003.91,56.16,7,0.2
+CE31AD56,2023-12-28,2024-01-05,Asia,South Korea,Tables - Blue,Furniture,Tables,126.27,34.08,4,0.09
+5935F930,2024-12-27,2024-12-31,Asia,South Korea,Chairs - Wonder,Furniture,Chairs,1634.25,91.66,10,0.18
+23655710,2022-11-01,2022-11-05,Asia,Japan,Binders - Forward,Office Supplies,Binders,636.7,63.34,10,0.19
+1705EEFD,2023-11-14,2023-11-15,Europe,Spain,Binders - Military,Office Supplies,Binders,780.38,220.48,5,0.11
+3AEB543C,2023-08-01,2023-08-05,Asia,India,Paper - Price,Office Supplies,Paper,731.52,115.12,1,0.2
+3233957A,2022-06-30,2022-07-07,Asia,Japan,Tables - Simple,Furniture,Tables,1779.4,451.83,2,0.17
+4E74C345,2022-07-13,2022-07-18,Europe,Germany,Printers - Art,Technology,Printers,611.75,108.55,2,0.09
+577DCCF5,2025-03-18,2025-03-23,North America,Mexico,Phones - While,Technology,Phones,858.62,91.38,1,0.17
+0164413B,2023-09-27,2023-10-03,Asia,China,Phones - Yard,Technology,Phones,529.98,65.34,6,0.13
+53785AD9,2024-05-04,2024-05-09,North America,USA,Laptops - Enter,Technology,Laptops,25.43,4.05,7,0.16
+84CDAB4D,2024-05-19,2024-05-23,Asia,India,Tables - Upon,Furniture,Tables,243.93,50.18,1,0.1
+563E6F8E,2025-01-09,2025-01-13,Europe,Germany,Binders - Science,Office Supplies,Binders,1375.89,196.49,6,0.01
+70661ECA,2023-11-30,2023-12-04,Europe,Italy,Printers - Statement,Technology,Printers,1475.81,418.15,1,0.21
+126D4579,2023-03-17,2023-03-27,Europe,UK,Pens - Parent,Office Supplies,Pens,870.43,51.53,1,0.28
+963DFA19,2023-10-30,2023-11-07,Europe,Italy,Pens - Since,Office Supplies,Pens,1070.36,209.93,10,0.12
+257FE2B5,2024-11-03,2024-11-05,Europe,UK,Pens - Mouth,Office Supplies,Pens,1533.65,165.12,5,0.01
+A08AA013,2023-01-01,2023-01-09,Europe,Italy,Tables - Each,Furniture,Tables,677.42,192.19,10,0.21
+8B6F7300,2022-06-26,2022-06-29,North America,Mexico,Laptops - Scientist,Technology,Laptops,1834.72,475.56,1,0.19
+E5964EDF,2025-03-02,2025-03-12,Europe,Italy,Printers - Computer,Technology,Printers,1053.8,220.14,10,0.02
+EC04180D,2022-09-19,2022-09-24,Europe,UK,Chairs - Cold,Furniture,Chairs,1234.28,308.11,8,0.28
+42CF84F5,2022-12-27,2023-01-05,Europe,Germany,Pens - Court,Office Supplies,Pens,1464.42,186.99,4,0.22
+430A55CD,2024-12-27,2025-01-06,Asia,South Korea,Printers - Theory,Technology,Printers,1916.51,260.04,9,0.26
+9BB469AC,2022-06-03,2022-06-13,Asia,India,Bookcases - Best,Furniture,Bookcases,1871.21,176.7,3,0.28
+F61E3298,2024-01-05,2024-01-09,Asia,Singapore,Paper - Set,Office Supplies,Paper,617.49,53.68,3,0.04
+9D6CB554,2025-02-11,2025-02-14,North America,USA,Pens - Trouble,Office Supplies,Pens,1759.95,104.01,1,0.25
+95D13B7F,2023-01-13,2023-01-20,Europe,UK,Binders - Society,Office Supplies,Binders,1891.5,244.2,4,0.16
+697FD711,2022-09-24,2022-10-04,Europe,France,Phones - Tonight,Technology,Phones,1887.78,237.67,9,0.11
+2D4AAA93,2023-11-03,2023-11-04,North America,Mexico,Bookcases - Voice,Furniture,Bookcases,241.75,13.23,7,0.02
+5473C58F,2022-04-13,2022-04-15,Europe,Spain,Bookcases - Lot,Furniture,Bookcases,1541.51,244.46,7,0.13
+23880EFB,2022-10-24,2022-11-01,Asia,India,Tables - College,Furniture,Tables,235.94,48.29,8,0.1
+060391B1,2022-06-24,2022-07-03,Asia,China,Bookcases - One,Furniture,Bookcases,432.23,87.7,4,0.29
+78867716,2024-07-26,2024-07-27,Asia,South Korea,Phones - Admit,Technology,Phones,1280.2,151.24,10,0.25
+3EE6DA3E,2024-10-25,2024-10-31,Europe,Italy,Laptops - Today,Technology,Laptops,633.89,161.63,3,0.1
+3FBFCC76,2022-12-03,2022-12-06,Europe,Spain,Tables - Protect,Furniture,Tables,114.19,33.43,1,0.25
+7B36EAB2,2023-01-17,2023-01-19,Asia,China,Paper - Painting,Office Supplies,Paper,692.39,125.21,10,0.22
+EFC0FA84,2024-08-17,2024-08-19,Europe,Spain,Paper - Entire,Office Supplies,Paper,1033.19,165.6,3,0.28
+DBC24318,2023-04-26,2023-04-27,Europe,France,Chairs - Wear,Furniture,Chairs,307.88,28.9,8,0.07
+27667B65,2022-04-22,2022-04-28,Asia,China,Printers - Series,Technology,Printers,233.82,68.97,4,0.3
+18B3B949,2024-02-10,2024-02-15,North America,Canada,Chairs - Chance,Furniture,Chairs,1597.99,189.44,2,0.15
+1F9F3FBF,2023-11-06,2023-11-11,Asia,South Korea,Printers - Over,Technology,Printers,1693.76,414.17,4,0.0
+6CD8CD54,2022-12-16,2022-12-18,North America,USA,Bookcases - Risk,Furniture,Bookcases,1325.72,215.45,7,0.06
+75CAF05B,2023-11-02,2023-11-12,Europe,UK,Printers - Indeed,Technology,Printers,905.65,151.14,7,0.07
+D8858048,2022-11-23,2022-11-28,North America,USA,Phones - But,Technology,Phones,17.37,2.68,7,0.27
+DEFED352,2024-09-28,2024-09-29,North America,Canada,Pens - Join,Office Supplies,Pens,1771.58,255.32,4,0.01
+413635A9,2024-10-17,2024-10-27,Europe,Italy,Bookcases - Live,Furniture,Bookcases,446.71,59.82,2,0.02
+DA0D4C7E,2023-10-29,2023-10-30,Europe,UK,Printers - Next,Technology,Printers,1988.38,369.19,1,0.25
+C29C2D52,2023-10-04,2023-10-12,North America,USA,Binders - Interview,Office Supplies,Binders,662.36,138.81,8,0.04
+3C56DE17,2025-01-30,2025-02-01,North America,Canada,Pens - Black,Office Supplies,Pens,569.0,164.0,1,0.23
+07549B83,2022-06-08,2022-06-10,Europe,France,Laptops - Indeed,Technology,Laptops,1014.25,271.0,1,0.07
+502CE84D,2022-12-16,2022-12-25,Asia,India,Paper - Local,Office Supplies,Paper,1113.45,147.75,2,0.16
+16F21F61,2023-06-11,2023-06-13,Asia,China,Pens - Show,Office Supplies,Pens,1494.76,166.76,10,0.12
+852A6F2D,2023-04-29,2023-04-30,Asia,Japan,Binders - Rock,Office Supplies,Binders,92.93,21.09,8,0.19
+449F86ED,2024-12-09,2024-12-11,North America,USA,Laptops - Why,Technology,Laptops,967.92,233.3,5,0.29
+D5FF98C8,2025-03-15,2025-03-25,Europe,France,Tables - Help,Furniture,Tables,1663.04,429.35,3,0.24
+B960184A,2023-10-21,2023-10-22,Europe,UK,Laptops - Computer,Technology,Laptops,1297.69,122.5,2,0.1
+F4342922,2023-12-14,2023-12-23,North America,USA,Laptops - Kid,Technology,Laptops,1303.42,248.67,9,0.07
+12036DF0,2022-12-24,2022-12-29,North America,USA,Binders - Box,Office Supplies,Binders,1072.37,76.36,2,0.09
+121DD9C6,2025-03-22,2025-03-29,Europe,France,Paper - List,Office Supplies,Paper,1906.26,550.05,5,0.12
+297C0942,2023-01-20,2023-01-30,North America,USA,Tables - Throw,Furniture,Tables,497.42,72.12,4,0.11
+98758AF5,2023-09-15,2023-09-17,Europe,UK,Tables - Member,Furniture,Tables,1688.18,301.19,3,0.16
+3720C76F,2023-01-04,2023-01-11,Europe,Italy,Tables - Population,Furniture,Tables,317.62,75.79,4,0.17
+D9BC132A,2022-07-21,2022-07-23,Asia,China,Printers - Police,Technology,Printers,1919.81,456.58,3,0.21
+A9A86E65,2023-12-07,2023-12-12,Asia,South Korea,Laptops - Citizen,Technology,Laptops,1862.19,147.88,1,0.07
+5EDA295C,2023-04-18,2023-04-26,Europe,UK,Phones - History,Technology,Phones,555.61,162.76,7,0.27
+9485BF13,2023-10-14,2023-10-18,North America,Mexico,Chairs - Themselves,Furniture,Chairs,1115.8,325.45,3,0.19
+339DE1A4,2023-03-02,2023-03-06,Europe,UK,Paper - Performance,Office Supplies,Paper,1005.9,96.67,4,0.14
+D7010B8F,2025-02-27,2025-03-06,North America,Canada,Tables - Our,Furniture,Tables,1153.2,317.65,4,0.12
